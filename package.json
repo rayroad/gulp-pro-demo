@@ -1,0 +1,35 @@
+{
+  "name": "gulp-pro-demo",
+  "version": "1.0.0",
+  "description": "a pro demo with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayroad/gulp-pro-demo.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "rayroad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayroad/gulp-pro-demo/issues"
+  },
+  "homepage": "https://github.com/rayroad/gulp-pro-demo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.7",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-less": "^3.1.0",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7",
+    "gulp-watch-path": "^0.1.0",
+    "stream-combiner2": "^1.1.1"
+  }
+}
